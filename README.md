@@ -25,20 +25,20 @@ The analysis of the election show that:
   - Raymon Anthony Doane
 
 - The candidate results were:
-  	- Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
-  	- Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-  	- Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 
 - The winner of the election was:
- 	- Diana DeGette with 73.8% of total voters. 
+ - Diana DeGette with 73.8% of total voters. 
 
--The counties involved in the elections were:
-	-Jefferson county with 38, 855 voters and 10.5% of the total voters.
-	-Denver county with 306, 055 voters and 82.8% of the total voters.
-	-Arapahoe county with 24, 801 voters and 6.7% of the total voters.
+- The counties involved in the elections were:
+ - Jefferson county with 38, 855 voters and 10.5% of the total voters.
+ - Denver county with 306, 055 voters and 82.8% of the total voters.
+ - Arapahoe county with 24, 801 voters and 6.7% of the total voters.
 
--The county that had the largest turnout:
-	- Denver with 82.8% total participants
+- The county that had the largest turnout:
+ - Denver with 82.8% total participants
 
 ## Challenge Summary
 The script written for the intended purposes to calculate the data given the Colorado election may also be used for any other election. It is written in such a way that it will adapt with variations to the number of candidates and/or counties involved. Below is an example as to how to use the existing script for other elections.
