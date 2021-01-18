@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-The Colorado Board of Elections requires an election audit based on the election results data that was provided. A list of deliverables is highlighted below as per the commission requirements. 
+The Colorado Board of Elections requires an election audit based on the election results data that was provided. With 3 different voting methods including, Mail-In Ballots, Punch Cards and Direct Recording Electronics counting machines; it is important that the vote-count certification process is as automated as possible due to the volume of participants. A list of deliverables is highlighted below as per the commission requirements. 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received the vote.
 3. Calculate the total number of votes each candidate won.
@@ -11,6 +11,7 @@ The Colorado Board of Elections requires an election audit based on the election
 7. Calculate the percentage of voters from each county from the total amount.
 8. Determine the county with the highest turnout. 
 
+ 
 ## Resources
 - Data Source: elections_results.csv
 - Software: Python 3.6.7, Visual Studio Code 1.52.1
